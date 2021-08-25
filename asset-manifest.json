@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/neuroprism/static/css/main.69cc6b55.chunk.css",
+    "main.css": "/neuroprism/static/css/main.679f421c.chunk.css",
     "main.js": "/neuroprism/static/js/main.4e0f791b.chunk.js",
     "main.js.map": "/neuroprism/static/js/main.4e0f791b.chunk.js.map",
     "runtime-main.js": "/neuroprism/static/js/runtime-main.35efea3b.js",
@@ -10,14 +10,14 @@
     "static/js/3.7a75269c.chunk.js": "/neuroprism/static/js/3.7a75269c.chunk.js",
     "static/js/3.7a75269c.chunk.js.map": "/neuroprism/static/js/3.7a75269c.chunk.js.map",
     "index.html": "/neuroprism/index.html",
-    "static/css/main.69cc6b55.chunk.css.map": "/neuroprism/static/css/main.69cc6b55.chunk.css.map",
+    "static/css/main.679f421c.chunk.css.map": "/neuroprism/static/css/main.679f421c.chunk.css.map",
     "static/js/2.7627f8b5.chunk.js.LICENSE.txt": "/neuroprism/static/js/2.7627f8b5.chunk.js.LICENSE.txt",
     "static/media/blob.c14d8827.svg": "/neuroprism/static/media/blob.c14d8827.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.35efea3b.js",
     "static/js/2.7627f8b5.chunk.js",
-    "static/css/main.69cc6b55.chunk.css",
+    "static/css/main.679f421c.chunk.css",
     "static/js/main.4e0f791b.chunk.js"
   ]
 }
