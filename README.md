@@ -1,3 +1,3 @@
-This website was created as a conceptual project and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with other companies, brands, or networks.
+Concept demo
 
 Demo: https://jerseypintail44.github.io/neuroprism/
