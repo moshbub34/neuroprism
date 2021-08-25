@@ -74,4 +74,6 @@ const Button = styled.button`
 const TitleDiv = styled.div`
   margin-bottom: 80px;
 `;
+
+
 export default HomePage;
