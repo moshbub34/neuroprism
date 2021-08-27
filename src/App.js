@@ -1,7 +1,7 @@
 import "./App.css";
 import Cursor from "./components/Cursor";
 import HomePage from "./components/HomePage";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Nvbar";
 
 function App() {
   return (
